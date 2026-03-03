@@ -1,30 +1,34 @@
 # 🚀 Portfólio Pessoal - Maria Beatriz Berten
 
-Este projeto de portfólio pessoal foi desenvolvido como parte do meu aprendizado prático em **Desenvolvimento Web**, consolidando conceitos fundamentais de front-end e design responsivo.
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Responsivo-08cb00?style=for-the-badge&logo=google-chrome&logoColor=white">
+</div>
 
 ## 🎓 Contexto do Projeto
 
-O site foi desenvolvido seguindo as trilhas de aprendizado da **Alura**, onde pude aplicar conceitos de HTML5 semântico e estilização avançada com CSS3, focando em uma interface moderna e funcional.
+Este projeto foi desenvolvido como parte de um curso da **Alura**, focado em consolidar fundamentos de Front-End. Nele, apliquei conceitos de marcação semântica e estilização moderna para criar uma página de apresentação pessoal (Landing Page).
 
 ## 🎨 Sobre o Design
 
-A página utiliza o modo escuro (Dark Mode) para uma estética voltada à tecnologia e cibersegurança. O layout foi estruturado para ser direto, destacando minha jornada como estudante de Engenharia de Software e minha visão de transformar ideias em soluções com propósito.
+O layout foi construído seguindo um guia de estilo focado em **Dark Mode**, utilizando cores de alto contraste (como o verde `#08cb00`) para destacar chamadas de ação (CTAs) e palavras-chave.
 
 ### 🛠️ Tecnologias e Conceitos Aplicados
 
-* **HTML5 Semântico**: Uso de tags como `<main>`, `<section>`, e `<header>` para melhor acessibilidade e SEO.
-* **CSS3 (Flexbox)**: Utilizado para o alinhamento preciso dos elementos e distribuição do conteúdo.
-* **Design Responsivo**: Uso de `@media queries` para adaptação do layout em dispositivos móveis (Mobile-First approach adaptado).
-* **Metodologia BEM**: Organização das classes CSS (ex: `apresentacao__links__link`) para um código mais limpo e manutenível.
+* **HTML5 Semântico**: Estruturação pensada em acessibilidade.
+* **CSS3 (Flexbox)**: Controle total do posicionamento e alinhamento dos elementos.
+* **Design Responsivo**: Uso de `@media queries` para garantir que o portfólio seja legível tanto no desktop quanto no mobile.
 * **Google Fonts**: Integração das fontes *Krona One* e *Montserrat*.
 
 ## 📱 Funcionalidades
 
-* **Botões Interativos**: Links estilizados para LinkedIn e GitHub com efeitos visuais.
-* **Layout Adaptável**: O site reorganiza a imagem e os textos automaticamente para telas de celulares e tablets.
+* **Links Dinâmicos**: Botões que direcionam para LinkedIn e GitHub.
+* **Layout Flexível**: O conteúdo se adapta automaticamente para telas menores, priorizando a leitura.
 
-## 📂 Organ
+## 📂 Estrutura de Arquivos
+
 ```text
 ├── index.html      # Estrutura do site
-├── style.css       # Folha de estilo (inclui media queries)
-└── img/            # Ativos visuais do projeto
+├── style.css       # Estilização e responsividade
+└── img/            # Ativos visuais (imagens)
