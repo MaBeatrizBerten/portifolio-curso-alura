@@ -4,10 +4,15 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Portifólio</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="./styles/style.css" />
   </head>
   <body>
-    <header></header>
+    <header class="cabecalho">
+      <nav class="cabecalho__menu">
+        <a class="cabecalho__menu__link" href="index.html">Home</a>
+        <a class="cabecalho__menu__link" href="about.html">Sobre mim</a>
+      </nav>
+    </header>
     <main class="apresentacao">
       <section class="apresentacao__conteudo">
         <h1 class="apresentacao__conteudo__titulo">
@@ -28,17 +33,21 @@
           <a
             class="apresentacao__links__link"
             href="https://www.linkedin.com/in/maria-beatriz-berten-de-moraes-a503322a1/"
-            >LinkedIn</a
+          >
+            <img
+              src="img/linkedin.png"
+              class="icon-verde"
+              width="44"
+            />LinkedIn</a
           >
           <a
             class="apresentacao__links__link"
             href="https://github.com/MaBeatrizBerten"
-            >GitHub</a
+            ><img src="img/github.png" class="icon-verde" width="44" />GitHub</a
           >
         </div>
       </section>
       <img src="img/Imagem.png" class="apresentacao__imagem" alt="Minha Foto" />
     </main>
-    <footer></footer>
   </body>
 </html>
