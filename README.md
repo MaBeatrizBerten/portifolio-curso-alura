@@ -1,34 +1,42 @@
 # 🚀 Portfólio Pessoal - Maria Beatriz Berten
 
 <div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Responsivo-08cb00?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-08cb00?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-08cb00?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Design-Personalizado-08cb00?style=for-the-badge&logo=adobelightroom&logoColor=white">
 </div>
 
+Este é o meu projeto de portfólio pessoal, uma página desenvolvida para apresentar minha jornada acadêmica e profissional. Como estudante de Engenharia de Software, criei este espaço para consolidar minhas habilidades em desenvolvimento front-end e servir como um ponto de contato para oportunidades na área de tecnologia e cibersegurança.
+
 ## 🎓 Contexto do Projeto
+Este projeto foi desenvolvido seguindo as trilhas de aprendizado da **Alura**. Durante o curso, apliquei fundamentos essenciais de web design e boas práticas de desenvolvimento:
 
-Este projeto foi desenvolvido como parte de um curso da **Alura**, focado em consolidar fundamentos de Front-End. Nele, apliquei conceitos de marcação semântica e estilização moderna para criar uma página de apresentação pessoal (Landing Page).
+* **Estrutura Semântica**: Organização clara utilizando as tags `header`, `main`, `nav` e `section`.
+* **CSS Moderno com Variáveis**: Uso de `:root` para centralizar a gestão de cores e fontes, facilitando a manutenção do código.
+* **Layout com Flexbox**: Alinhamento preciso dos elementos e distribuição do conteúdo de forma organizada.
+* **Navegação Multipágina**: Implementação de links internos para transição entre as páginas Home e Sobre mim.
+* **Estilização de Ativos**: Uso de filtros CSS (`filter`) para personalizar a cor de ícones externos sem necessidade de edição de imagem.
 
-## 🎨 Sobre o Design
+## 📱 Estrutura do Site
+* **Home (`index.html`)**: Apresentação principal com foco em "Call to Action" para redes profissionais.
+* **Sobre mim (`about.html`)**: Detalhes sobre minha formação em Engenharia de Software e objetivos em cibersegurança.
 
-O layout foi construído seguindo um guia de estilo focado em **Dark Mode**, utilizando cores de alto contraste (como o verde `#08cb00`) para destacar chamadas de ação (CTAs) e palavras-chave.
+## 🛠️ Tecnologias Utilizadas
+* **HTML5**
+* **CSS3** (Flexbox, Variáveis, Filtros)
+* **Google Fonts** (Krona One & Montserrat)
 
-### 🛠️ Tecnologias e Conceitos Aplicados
+## ✒️ Autoria e Créditos
 
-* **HTML5 Semântico**: Estruturação pensada em acessibilidade.
-* **CSS3 (Flexbox)**: Controle total do posicionamento e alinhamento dos elementos.
-* **Design Responsivo**: Uso de `@media queries` para garantir que o portfólio seja legível tanto no desktop quanto no mobile.
-* **Google Fonts**: Integração das fontes *Krona One* e *Montserrat*.
+Projeto desenvolvido por Maria Beatriz Berten, utilizando a metodologia de ensino e base de código da Alura.**.
 
-## 📱 Funcionalidades
 
-* **Links Dinâmicos**: Botões que direcionam para LinkedIn e GitHub.
-* **Layout Flexível**: O conteúdo se adapta automaticamente para telas menores, priorizando a leitura.
 
 ## 📂 Estrutura de Arquivos
-
 ```text
-├── index.html      # Estrutura do site
-├── style.css       # Estilização e responsividade
-└── img/            # Ativos visuais (imagens)
+├── index.html        # Página inicial
+├── about.html        # Página detalhada sobre a autora
+├── styles/
+│   └── style.css     # Estilização global e variáveis de tema
+└── img/              # Imagens e ícones do projeto
+
