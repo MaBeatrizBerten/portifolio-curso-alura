@@ -3,6 +3,7 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-08cb00?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-08cb00?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Responsive-08cb00?style=for-the-badge&logo=google-chrome&logoColor=white">
   <img src="https://img.shields.io/badge/Design-Personalizado-08cb00?style=for-the-badge&logo=adobelightroom&logoColor=white">
 </div>
 
@@ -11,11 +12,11 @@ Este é o meu projeto de portfólio pessoal, uma página desenvolvida para apres
 ## 🎓 Contexto do Projeto
 Este projeto foi desenvolvido seguindo as trilhas de aprendizado da **Alura**. Durante o curso, apliquei fundamentos essenciais de web design e boas práticas de desenvolvimento:
 
-* **Estrutura Semântica**: Organização clara utilizando as tags `header`, `main`, `nav` e `section`.
-* **CSS Moderno com Variáveis**: Uso de `:root` para centralizar a gestão de cores e fontes, facilitando a manutenção do código.
-* **Layout com Flexbox**: Alinhamento preciso dos elementos e distribuição do conteúdo de forma organizada.
-* **Navegação Multipágina**: Implementação de links internos para transição entre as páginas Home e Sobre mim.
-* **Estilização de Ativos**: Uso de filtros CSS (`filter`) para personalizar a cor de ícones externos sem necessidade de edição de imagem.
+* **Estrutura Semântica**: Navegação clara com `header`, `main`, `nav` e `section`.
+* **CSS Moderno**: Uso de variáveis (`:root`) para gerenciamento de cores e fontes.
+* **Design Responsivo**: Layout flexível com `Flexbox` para diferentes resoluções.
+* **Interatividade**: Sistema de navegação multipágina (Home e Sobre mim).
+* **Estilização Avançada**: Uso de filtros CSS para customização de ícones.
 
 ## 📱 Estrutura do Site
 * **Home (`index.html`)**: Apresentação principal com foco em "Call to Action" para redes profissionais.
@@ -23,7 +24,7 @@ Este projeto foi desenvolvido seguindo as trilhas de aprendizado da **Alura**. D
 
 ## 🛠️ Tecnologias Utilizadas
 * **HTML5**
-* **CSS3** (Flexbox, Variáveis, Filtros)
+* **CSS3 (Variáveis, Flexbox, Responsividade)**
 * **Google Fonts** (Krona One & Montserrat)
 
 ## ✒️ Autoria e Créditos
